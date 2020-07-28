@@ -15,6 +15,13 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "A Hugo theme for creative and technical writing"
-    
-menu = "main"
-meta = "false"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about"
+  [[menu.main]]
+    identifier = "post"
+    name       = "Posts"
+    url        = "/posts/"

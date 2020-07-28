@@ -1,6 +1,6 @@
 baseurl = "https://sad-sinss.netlify.app/"
 title = "Sad-Sinss"
-copyright = "Copyright &copy; 2019 - Author Name"
+copyright = "Copyright &copy; 2020 - Insecupa"
 canonifyurls = true
 theme = "hugo-kiera"
 
@@ -14,7 +14,7 @@ pygmentsCodeFences = true
     name = "Insecupa"
 
 [params]
-    tagline = "A Hugo theme for creative and technical writing"
+    tagline = "Writing what comes."
 
 [menu]
   [[menu.main]]

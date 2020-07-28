@@ -1,0 +1,17 @@
+baseurl = "https://www.example.org/"
+title = "Sad-Sinss"
+copyright = "Copyright &copy; 2019 - Author Name"
+canonifyurls = true
+theme = "hugo-kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Insecupa"
+
+[params]
+    tagline = "A Hugo theme for creative and technical writing"

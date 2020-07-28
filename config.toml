@@ -15,3 +15,6 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "A Hugo theme for creative and technical writing"
+    
+menu = "main"
+meta = "false"

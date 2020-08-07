@@ -2,7 +2,7 @@
 title = "Why Video Games Are Good For Kids"
 date = 2020-08-07T21:46:46+05:30
 draft = false
-tags = [games, videogames]
+tags = []
 categories = []
 +++
 

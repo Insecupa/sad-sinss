@@ -1,4 +1,10 @@
-# Why Video Games Are Good For Kids
++++
+title = "Why Video Games Are Good For Kids"
+date = 2020-08-07T21:46:46+05:30
+draft = false
+tags = [games, videogames]
+categories = []
++++
 
 Video games, one of the things parents are most scared off. Most of the parents think video games will increase violence in their child's' life, or affect their mental health making them vulnerable. However, that might just be based on fallacious reasoning.
 
@@ -22,4 +28,3 @@ Especially multi-player games, help the child make new friends. If the child is 
 All of this might seem very little at the beginning, but it will help the child learn a lot and help him/her grow into a better person in the future without them even noticing the impact of games on their lives.
 
 Everything comes with its pros. And surely everything does have some sets of cons. The same thing goes to very helpful Games but surely does turn into something very horrible without guidance. Well, that doesn't mean one should stop giving access to playing games. The parent surely plays an important role particularly in this. Parents should give them the freedom to learn while restricting them to do anything illegal.
-

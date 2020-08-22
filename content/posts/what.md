@@ -18,6 +18,4 @@ I suffer with anxiety, I get anxious over little things that normal people won't
 
 I could go on on and write the things which I am scared of just because this person got close to me, but if I tell whats the best things happening. I will just answer with a single word - "PARADISE" with a little hell
 
-I wish she was my girlfriend but bad luck someones luckier to get this peice of rotten flesh.
-
 I love you all.
